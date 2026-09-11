@@ -1,0 +1,1 @@
+import{n as e}from"./dom.CoM-Yn9Y.js";import{i as t}from"./progress.ZA0TnSHB.js";import{t as n}from"./review.DDd2ujID.js";e(()=>{t();let e=document.querySelector(`[data-review-list]`);e&&n(e)});

@@ -1,0 +1,1 @@
+var e={tank:{A:2,R:8,qin:.15},rc:{R:1e3,C:47e-5,U:5},coffee:{C:800,R:.4,P:60,ambient:20},msd:{M:2,K:40,fv:6}};export{e as t};

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Control Engineering">
+  <!-- The app's own subject, drawn small: a first-order step response.
+       Palette from app.css - base-100 behind, primary teal on top. -->
+  <rect width="32" height="32" rx="7" fill="#090b20"/>
+  <path d="M3 25h5" stroke="#232b4d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M8 25V9h21" stroke="#232b4d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+  <path d="M3 25h5c7.5 0 11-4 13.5-8.6C23 13.6 25.6 10.4 29 9.6"
+        fill="none" stroke="#39dabe" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
